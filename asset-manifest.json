@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/lunamestiza/static/css/main.bcb99e53.chunk.css",
+    "main.js": "/lunamestiza/static/js/main.c437412f.chunk.js",
+    "main.js.map": "/lunamestiza/static/js/main.c437412f.chunk.js.map",
+    "runtime-main.js": "/lunamestiza/static/js/runtime-main.277fc000.js",
+    "runtime-main.js.map": "/lunamestiza/static/js/runtime-main.277fc000.js.map",
+    "static/js/2.7477a8bf.chunk.js": "/lunamestiza/static/js/2.7477a8bf.chunk.js",
+    "static/js/2.7477a8bf.chunk.js.map": "/lunamestiza/static/js/2.7477a8bf.chunk.js.map",
+    "index.html": "/lunamestiza/index.html",
+    "static/css/main.bcb99e53.chunk.css.map": "/lunamestiza/static/css/main.bcb99e53.chunk.css.map",
+    "static/js/2.7477a8bf.chunk.js.LICENSE.txt": "/lunamestiza/static/js/2.7477a8bf.chunk.js.LICENSE.txt",
+    "static/media/aretescirculares.jpeg": "/lunamestiza/static/media/aretescirculares.9cb8675f.jpeg",
+    "static/media/banner1.d82b6137.jpeg": "/lunamestiza/static/media/banner1.d82b6137.jpeg",
+    "static/media/collarcircularrosado.jpeg": "/lunamestiza/static/media/collarcircularrosado.06bacb7b.jpeg",
+    "static/media/collarcorazon.jpeg": "/lunamestiza/static/media/collarcorazon.50d7d2d6.jpeg",
+    "static/media/collargota.jpeg": "/lunamestiza/static/media/collargota.533d850b.jpeg",
+    "static/media/collarovalado.jpeg": "/lunamestiza/static/media/collarovalado.65b7bee8.jpeg",
+    "static/media/collarovaladovioleta.jpeg": "/lunamestiza/static/media/collarovaladovioleta.ab93b7ab.jpeg",
+    "static/media/collarrombo.jpeg": "/lunamestiza/static/media/collarrombo.3e0a8da4.jpeg",
+    "static/media/combocollarpentagono.jpeg": "/lunamestiza/static/media/combocollarpentagono.4eb47f98.jpeg",
+    "static/media/combocollarpurpura.jpeg": "/lunamestiza/static/media/combocollarpurpura.cd5fdbc9.jpeg",
+    "static/media/combocolllarcircular.jpeg": "/lunamestiza/static/media/combocolllarcircular.d9c51340.jpeg",
+    "static/media/logo.d8d35a68.png": "/lunamestiza/static/media/logo.d8d35a68.png",
+    "static/media/whatsapp.c63bfc94.png": "/lunamestiza/static/media/whatsapp.c63bfc94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277fc000.js",
+    "static/js/2.7477a8bf.chunk.js",
+    "static/css/main.bcb99e53.chunk.css",
+    "static/js/main.c437412f.chunk.js"
+  ]
+}
