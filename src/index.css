@@ -388,10 +388,3 @@ section img .whatsapp {
         height: 70px;
     }
 }
-
-/* --------------- MEDIA QUERIES HEADER ------------------*/
-@media only screen and (max-width: 600px) {
-    header ul {
-        display: none;
-    }
-}
